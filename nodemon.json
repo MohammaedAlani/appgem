@@ -1,0 +1,6 @@
+{
+    "env" : {
+        "MONG_ATLAS_PW" : "1212momo",
+        "JWT_KEY" : "HELLO"
+    }
+}
